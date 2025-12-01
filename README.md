@@ -32,9 +32,7 @@ Tools & Platforms:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joesphbeller&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joesphbeller&layout=compact&theme=default)
+[![Joesph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesphbeller)](https://github.com/joesphbeller/github-readme-stats)
 
 ---
 
