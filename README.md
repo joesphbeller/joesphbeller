@@ -2,7 +2,7 @@
     <img src="joesphbeller.png" alt="Joesph Beller" width="400">
 </div>
 
-## About
+## ✌️ About
 
 🔬 Hello, I am an early career computational scientist developing label-free imaging using dynamic optical coherence tomography. 
 
