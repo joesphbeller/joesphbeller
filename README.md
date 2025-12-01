@@ -2,7 +2,7 @@
     <img src="joesphbeller.png" alt="Joesph Beller" width="400">
 </div>
 
-## About Me
+## About
 
 🔬 Hello, I am an early career computational scientist developing label-free imaging using dynamic optical coherence tomography. 
 
@@ -22,7 +22,7 @@ Tools & Platforms:
 ![ImageJ](https://img.shields.io/badge/-FIJI/ImageJ-00D8E0?style=flat&logo=imagej&logoColor=white)
 ![Imaris](https://img.shields.io/badge/-Imaris-FF6600?style=flat&logoColor=white)
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesphbeller/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@josephbeller1725/featured)
