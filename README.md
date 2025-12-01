@@ -6,7 +6,7 @@
 
 🔬 Hello, I am an early career computational scientist developing label-free imaging using dynamic optical coherence tomography. 
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
 Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
