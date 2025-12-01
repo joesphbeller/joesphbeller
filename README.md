@@ -10,8 +10,6 @@
 
 📚 Currently reading *Between The World and Me* by Ta-Nehisi Coates
 
----
-
 ## 🛠️ Skills & Technologies
 
 Languages:
@@ -28,13 +26,10 @@ Tools & Platforms:
 ![ImageJ](https://img.shields.io/badge/-FIJI/ImageJ-00D8E0?style=flat&logo=imagej&logoColor=white)
 ![Imaris](https://img.shields.io/badge/-Imaris-FF6600?style=flat&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
-[![Joesph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesphbeller)](https://github.com/joesphbeller/github-readme-stats)
+[![Joesph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesphbeller)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## 🌐 Connect with Me
 
@@ -42,7 +37,3 @@ Tools & Platforms:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@josephbeller1725/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joesph.beller/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joesph.beller@bcm.edu)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=joesphbeller&color=blue)
