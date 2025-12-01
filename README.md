@@ -4,11 +4,7 @@
 
 ## About Me
 
-🔬 Currently working on developing label-free imaging using dynamic optical coherence tomography
-
-🌱 Currently learning computational optics and computer vision algorithms
-
-📚 Currently reading *Between The World and Me* by Ta-Nehisi Coates
+🔬 Hello, I am an early career computational scientist developing label-free imaging using dynamic optical coherence tomography. 
 
 ## 🛠️ Skills & Technologies
 
@@ -25,11 +21,6 @@ Tools & Platforms:
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![ImageJ](https://img.shields.io/badge/-FIJI/ImageJ-00D8E0?style=flat&logo=imagej&logoColor=white)
 ![Imaris](https://img.shields.io/badge/-Imaris-FF6600?style=flat&logoColor=white)
-
-## 📊 GitHub Stats
-
-[![Joesph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joesphbeller)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🌐 Connect with Me
 
