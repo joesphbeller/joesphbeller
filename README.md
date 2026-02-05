@@ -14,6 +14,7 @@ Languages:
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)
 
 Tools & Platforms:
@@ -21,10 +22,13 @@ Tools & Platforms:
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![ImageJ](https://img.shields.io/badge/-FIJI/ImageJ-00D8E0?style=flat&logo=imagej&logoColor=white)
 ![Imaris](https://img.shields.io/badge/-Imaris-FF6600?style=flat&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
 
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesphbeller/)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/joesph.beller?via=share_profile_qr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@josephbeller1725/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joesph.beller/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joesph.beller@bcm.edu)
